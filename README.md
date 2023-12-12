@@ -9,3 +9,6 @@ src/ contains 8 files:
 - get_serial_hijackers.py: retrieve ASNs of all recurring attackers on GRIP and write them in data/potential_serial_hijackers_ASN.txt. Also plot event count for each ASN in images/ count_of_events_per_potential_hijackers.png and time distribution of events for each AS in images/AS{ASN}/time_distrib_susp_event.png. For some AS it also plot IRR, RPKI and prefix statuses taken from IHR.
 - get_ihr_routing_info.py: from IHR, retrieve announced prefixes information (IRR, RPKI and prefix statuses) for each AS between 07/01/2021 and 10/31/2023 and save it in data/AS{ASN}/routing-info.json.
 - grip_event_analysis.py: retrieve all type of information concerning each GRIP event and save it in data/AS{ASN}/summary.txt, data/AS{ASN}/tags.csv and data/AS{ASN}/tags_freq.json
+- plot_functions.py, query_functions.py and utils.py are helpers
+- AS211398_analysis.py: count the number of event only saw by AS211398 vantage point between May 28 and June 2 2022 and August 23 and 30 2022. Save the results in data/AS211398/
+- victims_41698_43754.py: count the numbers of common victims between 41689 and 43754 (not used in the summary)
