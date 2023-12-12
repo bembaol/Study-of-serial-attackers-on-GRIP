@@ -1,0 +1,59 @@
+####################
+## Events Summary ##
+####################
+
+ASN: 18013
+AS name: ASLINE-AS-AP
+AS rank: 1446
+Organization name: ASLINE LIMITED
+Country: Hong Kong
+------------------------------
+Total number of suspicious events (% of suspicious out of all events): 210 (5.4361894900336525 %)
+  MOAS (% of suspicious out of all events): 181 (9.869138495092693 %)
+  SubMOAS (% of suspicious out of all events): 27 (1.332017760236803 %)
+
+Total number of benign events (% of benign out of all events): 3653 (94.56381050996634 %)
+  MOAS (% of suspicious out of all events): 1653 (90.13086150490732 %)
+  SubMOAS (% of suspicious out of all events): 2000 (98.66798223976319 %)
+  Event that only has "previously-announced-by-all-newcomers" green tag but prefix caused a suspicious event previously (= hidden suspicious events): 69
+------------------------------
+Average Duration: 173 days, 20:01:01.793269
+Median duration: 0:12:30
+------------------------------
+Average number of events with each victim: 98.1951219512195
+  Average number of suspicious events with each victim: 6.170731707317073
+  Average number of benign events with each victim: 92.02439024390245
+Victims targeted more than 5 times:
+  AS133199: 77 (36.666666666666664 %)
+  AS399077: 22 (10.476190476190476 %)
+  AS55020: 17 (8.095238095238095 %)
+  AS137443: 10 (4.761904761904762 %)
+  AS139330: 8 (3.8095238095238098 %)
+  AS174: 8 (3.8095238095238098 %)
+  AS13030: 7 (3.3333333333333335 %)
+  AS18254: 6 (2.857142857142857 %)
+  AS9294: 6 (2.857142857142857 %)
+------------------------------
+Fraction of /24 prefix: 0.8314410480349345
+Fraction of prefixes covered by a ROA: 0.008733624454148471
+Fraction of prefix already involved in an event but with reversed roles, i.e. attacker as victim and vice versa (= recovered prefixes): 0.0026200873362445414
+/8 prefixes targeted more than 5 times:
+  149.x.x.x: 280 (24.45414847161572 %)
+  164.x.x.x: 234 (20.436681222707424 %)
+  38.x.x.x: 133 (11.615720524017467 %)
+  156.x.x.x: 114 (9.956331877729257 %)
+  206.x.x.x: 92 (8.034934497816595 %)
+  103.x.x.x: 83 (7.248908296943231 %)
+  154.x.x.x: 64 (5.5895196506550215 %)
+  45.x.x.x: 36 (3.14410480349345 %)
+  43.x.x.x: 16 (1.3973799126637554 %)
+  169.x.x.x: 8 (0.6986899563318777 %)
+  119.x.x.x: 6 (0.5240174672489083 %)
+  208.x.x.x: 6 (0.5240174672489083 %)
+------------------------------
+Average fraction of attackers paths: 0.13602655013691742
+Average fraction of attackers paths containing at least one victim: 0.00515963343557628
+Average fraction of victims paths containing attacker: 0.15483332043924775
+Average fraction of fooled ASes: 0.17009984811138218
+Average fraction of suspicious pfx events: 0.9186363362502078
+

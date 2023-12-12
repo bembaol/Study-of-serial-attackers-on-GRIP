@@ -1,0 +1,83 @@
+####################
+## Events Summary ##
+####################
+
+ASN: 9009
+AS name: M247
+AS rank: 323
+Organization name: M247 Europe SRL
+Country: Romania
+------------------------------
+Total number of suspicious events (% of suspicious out of all events): 378 (12.236969893169311 %)
+  MOAS (% of suspicious out of all events): 168 (19.112627986348123 %)
+  SubMOAS (% of suspicious out of all events): 210 (9.502262443438914 %)
+
+Total number of benign events (% of benign out of all events): 2711 (87.76303010683068 %)
+  MOAS (% of suspicious out of all events): 711 (80.88737201365188 %)
+  SubMOAS (% of suspicious out of all events): 2000 (90.49773755656109 %)
+  Event that only has "previously-announced-by-all-newcomers" green tag but prefix caused a suspicious event previously (= hidden suspicious events): 18
+------------------------------
+Average Duration: 543 days, 17:06:24.944444
+Median duration: 518 days, 0:04:59
+------------------------------
+Average number of events with each victim: 11.170403587443946
+  Average number of suspicious events with each victim: 2.10762331838565
+  Average number of benign events with each victim: 9.062780269058296
+Victims targeted more than 5 times:
+  AS46261: 22 (5.82010582010582 %)
+  AS57129: 18 (4.761904761904762 %)
+  AS11325: 14 (3.7037037037037033 %)
+  AS146955: 8 (2.1164021164021163 %)
+  AS834: 8 (2.1164021164021163 %)
+  AS19437: 6 (1.5873015873015872 %)
+  AS20940: 6 (1.5873015873015872 %)
+  AS35916: 6 (1.5873015873015872 %)
+  AS749: 6 (1.5873015873015872 %)
+  AS20115: 6 (1.5873015873015872 %)
+  AS996: 6 (1.5873015873015872 %)
+------------------------------
+Fraction of /24 prefix: 0.5509110396570204
+Fraction of prefixes covered by a ROA: 0.10289389067524116
+Fraction of prefix already involved in an event but with reversed roles, i.e. attacker as victim and vice versa (= recovered prefixes): 0.003215434083601286
+/8 prefixes targeted more than 5 times:
+  24.x.x.x: 172 (18.435155412647376 %)
+  23.x.x.x: 82 (8.788853161843516 %)
+  168.x.x.x: 76 (8.145766345123258 %)
+  22.x.x.x: 68 (7.288317256162916 %)
+  185.x.x.x: 43 (4.608788853161844 %)
+  172.x.x.x: 36 (3.858520900321544 %)
+  45.x.x.x: 34 (3.644158628081458 %)
+  154.x.x.x: 33 (3.536977491961415 %)
+  104.x.x.x: 28 (3.0010718113612005 %)
+  190.x.x.x: 26 (2.786709539121115 %)
+  206.x.x.x: 22 (2.3579849946409435 %)
+  21.x.x.x: 19 (2.0364415862808145 %)
+  216.x.x.x: 16 (1.714898177920686 %)
+  102.x.x.x: 16 (1.714898177920686 %)
+  178.x.x.x: 15 (1.607717041800643 %)
+  31.x.x.x: 15 (1.607717041800643 %)
+  156.x.x.x: 14 (1.5005359056806002 %)
+  192.x.x.x: 13 (1.3933547695605575 %)
+  207.x.x.x: 12 (1.2861736334405145 %)
+  91.x.x.x: 10 (1.0718113612004287 %)
+  193.x.x.x: 9 (0.964630225080386 %)
+  64.x.x.x: 9 (0.964630225080386 %)
+  77.x.x.x: 9 (0.964630225080386 %)
+  158.x.x.x: 8 (0.857449088960343 %)
+  109.x.x.x: 8 (0.857449088960343 %)
+  5.x.x.x: 8 (0.857449088960343 %)
+  37.x.x.x: 7 (0.7502679528403001 %)
+  176.x.x.x: 7 (0.7502679528403001 %)
+  80.x.x.x: 6 (0.6430868167202572 %)
+  159.x.x.x: 6 (0.6430868167202572 %)
+  194.x.x.x: 6 (0.6430868167202572 %)
+  209.x.x.x: 6 (0.6430868167202572 %)
+  20.x.x.x: 6 (0.6430868167202572 %)
+  204.x.x.x: 6 (0.6430868167202572 %)
+------------------------------
+Average fraction of attackers paths: 0.4142918851606815
+Average fraction of attackers paths containing at least one victim: 0.0033689619109213624
+Average fraction of victims paths containing attacker: 0.0031024297605659872
+Average fraction of fooled ASes: 0.46733166248464625
+Average fraction of suspicious pfx events: 0.9623928151507517
+

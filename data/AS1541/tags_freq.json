@@ -1,0 +1,41 @@
+{
+  "tr_no": {
+    "previously-announced-by-all-newcomers": 0.09178743961352658
+  },
+  "tr_yes": {
+    "not-previously-announced-by-any-newcomer": 1.0,
+    "hegemony-valley-paths": 0.678743961352657,
+    "irr-LACNIC-all-newcomer-no-record": 0.6376811594202898,
+    "irr-RADB-all-newcomer-no-record": 0.6376811594202898,
+    "prefix-small-edit-distance": 0.3695652173913043,
+    "rpki-some-newcomer-invalid-roa": 0.0821256038647343,
+    "rpki-all-newcomer-invalid-roa": 0.0821256038647343,
+    "irr-LACNIC-all-oldcomer-no-record": 0.06280193236714976,
+    "irr-RADB-all-oldcomer-no-record": 0.033816425120772944,
+    "irr-RADB-some-oldcomer-no-record": 0.0024154589371980675,
+    "rpki-some-oldcomer-invalid-roa": 0.0024154589371980675,
+    "rpki-all-oldcomer-invalid-roa": 0.0024154589371980675
+  },
+  "tr_na": {
+    "all-origins-same-country": 0.9492753623188406,
+    "newcomer-more-specific": 0.9396135265700483,
+    "outdated-info": 0.9323671497584541,
+    "rpki-all-newcomer-unknown-roa": 0.9178743961352657,
+    "rpki-some-newcomer-unknown-roa": 0.9178743961352657,
+    "oldcomers-always-on-newcomer-originated-paths": 0.5845410628019324,
+    "rpki-all-oldcomer-unknown-roa": 0.42028985507246375,
+    "rpki-some-oldcomer-unknown-roa": 0.42028985507246375,
+    "some-victims-stub-ases": 0.28743961352657005,
+    "all-victims-stub-ases": 0.2826086956521739,
+    "previously-announced-by-some-newcomers": 0.09178743961352658,
+    "rpki-newcomer-invalid-roa-due-to-as": 0.0821256038647343,
+    "oldcomer-path-prepending": 0.04830917874396135,
+    "irr-RADB-all-oldcomer-exact-record": 0.021739130434782608,
+    "has-dps-asn": 0.00966183574879227,
+    "irr-RADB-all-oldcomer-more-specific-record": 0.004830917874396135,
+    "irr-RADB-some-oldcomer-more-specific-record": 0.0024154589371980675,
+    "rpki-oldcomer-invalid-roa-due-to-as": 0.0024154589371980675,
+    "rpki-some-oldcomer-valid-roa": 0.0024154589371980675,
+    "rpki-all-oldcomer-valid-roa": 0.0024154589371980675
+  }
+}

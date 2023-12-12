@@ -1,0 +1,57 @@
+####################
+## Events Summary ##
+####################
+
+ASN: 6453
+AS name: AS6453
+AS rank: 9
+Organization name: TATA COMMUNICATIONS (AMERICA) INC
+Country: United States
+------------------------------
+Total number of suspicious events (% of suspicious out of all events): 177 (9.039836567926455 %)
+  MOAS (% of suspicious out of all events): 137 (14.285714285714285 %)
+  SubMOAS (% of suspicious out of all events): 40 (4.004004004004004 %)
+
+Total number of benign events (% of benign out of all events): 1781 (90.96016343207354 %)
+  MOAS (% of suspicious out of all events): 822 (85.71428571428571 %)
+  SubMOAS (% of suspicious out of all events): 959 (95.995995995996 %)
+  Event that only has "previously-announced-by-all-newcomers" green tag but prefix caused a suspicious event previously (= hidden suspicious events): 147
+------------------------------
+Average Duration: 251 days, 14:56:29.497175
+Median duration: 1:05:00
+------------------------------
+Average number of events with each victim: 11.07865168539326
+  Average number of suspicious events with each victim: 2.033707865168539
+  Average number of benign events with each victim: 9.044943820224718
+Victims targeted more than 5 times:
+  AS31126: 21 (11.864406779661017 %)
+  AS3225: 20 (11.299435028248588 %)
+  AS10030: 8 (4.519774011299435 %)
+------------------------------
+Fraction of /24 prefix: 0.8062015503875969
+Fraction of prefixes covered by a ROA: 0.05813953488372093
+Fraction of prefix already involved in an event but with reversed roles, i.e. attacker as victim and vice versa (= recovered prefixes): 0.0
+/8 prefixes targeted more than 5 times:
+  103.x.x.x: 52 (20.155038759689923 %)
+  91.x.x.x: 20 (7.751937984496124 %)
+  194.x.x.x: 16 (6.2015503875969 %)
+  89.x.x.x: 14 (5.426356589147287 %)
+  93.x.x.x: 11 (4.263565891472868 %)
+  24.x.x.x: 10 (3.875968992248062 %)
+  193.x.x.x: 9 (3.488372093023256 %)
+  185.x.x.x: 9 (3.488372093023256 %)
+  212.x.x.x: 8 (3.10077519379845 %)
+  95.x.x.x: 8 (3.10077519379845 %)
+  21.x.x.x: 8 (3.10077519379845 %)
+  203.x.x.x: 7 (2.7131782945736433 %)
+  45.x.x.x: 7 (2.7131782945736433 %)
+  183.x.x.x: 7 (2.7131782945736433 %)
+  177.x.x.x: 7 (2.7131782945736433 %)
+  202.x.x.x: 6 (2.3255813953488373 %)
+------------------------------
+Average fraction of attackers paths: 0.5239075173176883
+Average fraction of attackers paths containing at least one victim: 1.5436386650612826e-05
+Average fraction of victims paths containing attacker: 0.17256636255898586
+Average fraction of fooled ASes: 0.589734202444018
+Average fraction of suspicious pfx events: 0.9952919020715632
+

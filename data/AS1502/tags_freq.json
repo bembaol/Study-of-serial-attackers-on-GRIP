@@ -1,0 +1,51 @@
+{
+  "tr_no": {
+    "previously-announced-by-all-newcomers": 0.02976190476190476
+  },
+  "tr_yes": {
+    "not-previously-announced-by-any-newcomer": 1.0,
+    "irr-RADB-all-newcomer-no-record": 0.8869047619047619,
+    "irr-LACNIC-all-newcomer-no-record": 0.8869047619047619,
+    "hegemony-valley-paths": 0.6309523809523809,
+    "irr-CANARIE-all-newcomer-no-record": 0.5714285714285714,
+    "irr-OPENFACE-all-newcomer-no-record": 0.5714285714285714,
+    "irr-APNIC-all-newcomer-no-record": 0.5714285714285714,
+    "irr-ALTDB-all-newcomer-no-record": 0.5714285714285714,
+    "irr-NESTEGG-all-newcomer-no-record": 0.5714285714285714,
+    "irr-RIPE-NONAUTH-all-newcomer-no-record": 0.5714285714285714,
+    "irr-BELL-all-newcomer-no-record": 0.5714285714285714,
+    "irr-LEVEL3-all-newcomer-no-record": 0.5714285714285714,
+    "irr-REACH-all-newcomer-no-record": 0.5714285714285714,
+    "irr-AFRINIC-all-newcomer-no-record": 0.5714285714285714,
+    "irr-TC-all-newcomer-no-record": 0.5714285714285714,
+    "irr-JPIRR-all-newcomer-no-record": 0.5714285714285714,
+    "irr-ARIN-all-newcomer-no-record": 0.5714285714285714,
+    "irr-WCGDB-all-newcomer-no-record": 0.5714285714285714,
+    "irr-PANIX-all-newcomer-no-record": 0.5714285714285714,
+    "irr-IDNIC-all-newcomer-no-record": 0.5714285714285714,
+    "irr-BBOI-all-newcomer-no-record": 0.5714285714285714,
+    "irr-RIPE-all-newcomer-no-record": 0.5714285714285714,
+    "irr-NTTCOM-all-newcomer-no-record": 0.5714285714285714,
+    "prefix-small-edit-distance": 0.10714285714285714,
+    "irr-LACNIC-all-oldcomer-no-record": 0.017857142857142856,
+    "irr-RADB-all-oldcomer-no-record": 0.011904761904761904,
+    "irr-RADB-some-oldcomer-no-record": 0.005952380952380952
+  },
+  "tr_na": {
+    "all-origins-same-country": 1.0,
+    "rpki-some-newcomer-unknown-roa": 1.0,
+    "rpki-all-newcomer-unknown-roa": 1.0,
+    "newcomer-more-specific": 0.9821428571428571,
+    "oldcomers-always-on-newcomer-originated-paths": 0.8928571428571429,
+    "some-newcomers-stub-ases": 0.8869047619047619,
+    "all-newcomers-stub-ases": 0.8869047619047619,
+    "outdated-info": 0.7916666666666666,
+    "rpki-some-oldcomer-unknown-roa": 0.13095238095238096,
+    "rpki-all-oldcomer-unknown-roa": 0.13095238095238096,
+    "some-victims-stub-ases": 0.09523809523809523,
+    "all-victims-stub-ases": 0.08928571428571429,
+    "previously-announced-by-some-newcomers": 0.02976190476190476,
+    "oldcomer-path-prepending": 0.011904761904761904,
+    "irr-RADB-some-oldcomer-more-specific-record": 0.005952380952380952
+  }
+}

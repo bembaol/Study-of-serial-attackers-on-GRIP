@@ -1,0 +1,59 @@
+####################
+## Events Summary ##
+####################
+
+ASN: 61317
+AS name: ASDETUK
+AS rank: 1346
+Organization name: Hivelocity Inc
+Country: United States
+------------------------------
+Total number of suspicious events (% of suspicious out of all events): 223 (5.706243602865916 %)
+  MOAS (% of suspicious out of all events): 157 (8.523344191096633 %)
+  SubMOAS (% of suspicious out of all events): 66 (3.1945788964181996 %)
+
+Total number of benign events (% of benign out of all events): 3685 (94.29375639713409 %)
+  MOAS (% of suspicious out of all events): 1685 (91.47665580890336 %)
+  SubMOAS (% of suspicious out of all events): 2000 (96.8054211035818 %)
+  Event that only has "previously-announced-by-all-newcomers" green tag but prefix caused a suspicious event previously (= hidden suspicious events): 15
+------------------------------
+Average Duration: 734 days, 15:43:18.318386
+Median duration: 845 days, 14:49:59
+------------------------------
+Average number of events with each victim: 17.935064935064936
+  Average number of suspicious events with each victim: 2.4545454545454546
+  Average number of benign events with each victim: 15.480519480519481
+Victims targeted more than 5 times:
+  AS42366: 13 (5.829596412556054 %)
+  AS13030: 7 (3.1390134529147984 %)
+------------------------------
+Fraction of /24 prefix: 0.4582392776523702
+Fraction of prefixes covered by a ROA: 0.30248306997742663
+Fraction of prefix already involved in an event but with reversed roles, i.e. attacker as victim and vice versa (= recovered prefixes): 0.03837471783295711
+/8 prefixes targeted more than 5 times:
+  185.x.x.x: 63 (14.221218961625281 %)
+  45.x.x.x: 42 (9.480812641083523 %)
+  24.x.x.x: 41 (9.255079006772009 %)
+  173.x.x.x: 21 (4.740406320541761 %)
+  67.x.x.x: 21 (4.740406320541761 %)
+  103.x.x.x: 17 (3.837471783295711 %)
+  23.x.x.x: 17 (3.837471783295711 %)
+  22.x.x.x: 15 (3.3860045146726865 %)
+  174.x.x.x: 11 (2.4830699774266365 %)
+  181.x.x.x: 11 (2.4830699774266365 %)
+  91.x.x.x: 9 (2.0316027088036117 %)
+  104.x.x.x: 9 (2.0316027088036117 %)
+  141.x.x.x: 9 (2.0316027088036117 %)
+  196.x.x.x: 8 (1.805869074492099 %)
+  89.x.x.x: 8 (1.805869074492099 %)
+  31.x.x.x: 8 (1.805869074492099 %)
+  194.x.x.x: 7 (1.580135440180587 %)
+  193.x.x.x: 6 (1.3544018058690745 %)
+  176.x.x.x: 6 (1.3544018058690745 %)
+------------------------------
+Average fraction of attackers paths: 0.39073032884050174
+Average fraction of attackers paths containing at least one victim: 0.012920420350718656
+Average fraction of victims paths containing attacker: 0.004484304932735426
+Average fraction of fooled ASes: 0.42584361597595666
+Average fraction of suspicious pfx events: 0.9902500339720071
+

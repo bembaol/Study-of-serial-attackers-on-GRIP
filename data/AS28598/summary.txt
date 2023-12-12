@@ -1,0 +1,55 @@
+####################
+## Events Summary ##
+####################
+
+ASN: 28598
+AS name: 
+AS rank: 157
+Organization name: MOB SERVICOS DE TELECOMUNICACOES S.A.
+Country: Brazil
+------------------------------
+Total number of suspicious events (% of suspicious out of all events): 208 (14.910394265232977 %)
+  MOAS (% of suspicious out of all events): 121 (16.78224687933426 %)
+  SubMOAS (% of suspicious out of all events): 87 (12.908011869436201 %)
+
+Total number of benign events (% of benign out of all events): 1187 (85.08960573476702 %)
+  MOAS (% of suspicious out of all events): 600 (83.21775312066573 %)
+  SubMOAS (% of suspicious out of all events): 587 (87.0919881305638 %)
+  Event that only has "previously-announced-by-all-newcomers" green tag but prefix caused a suspicious event previously (= hidden suspicious events): 217
+------------------------------
+Average Duration: 124 days, 14:20:15.706731
+Median duration: 0:45:00
+------------------------------
+Average number of events with each victim: 7.654761904761905
+  Average number of suspicious events with each victim: 2.488095238095238
+  Average number of benign events with each victim: 5.166666666666667
+Victims targeted more than 5 times:
+  AS53112: 28 (13.461538461538462 %)
+  AS270250: 16 (7.6923076923076925 %)
+  AS263418: 15 (7.211538461538461 %)
+  AS268563: 9 (4.326923076923077 %)
+  AS268519: 9 (4.326923076923077 %)
+------------------------------
+Fraction of /24 prefix: 0.7005494505494505
+Fraction of prefixes covered by a ROA: 0.008241758241758242
+Fraction of prefix already involved in an event but with reversed roles, i.e. attacker as victim and vice versa (= recovered prefixes): 0.0
+/8 prefixes targeted more than 5 times:
+  177.x.x.x: 105 (28.846153846153843 %)
+  45.x.x.x: 99 (27.197802197802197 %)
+  200.x.x.x: 26 (7.142857142857142 %)
+  170.x.x.x: 19 (5.21978021978022 %)
+  187.x.x.x: 16 (4.395604395604396 %)
+  189.x.x.x: 15 (4.1208791208791204 %)
+  143.x.x.x: 13 (3.571428571428571 %)
+  138.x.x.x: 10 (2.7472527472527473 %)
+  24.x.x.x: 10 (2.7472527472527473 %)
+  168.x.x.x: 8 (2.197802197802198 %)
+  179.x.x.x: 7 (1.9230769230769231 %)
+  190.x.x.x: 6 (1.6483516483516485 %)
+------------------------------
+Average fraction of attackers paths: 0.3659784652070047
+Average fraction of attackers paths containing at least one victim: 0.0017925454921422662
+Average fraction of victims paths containing attacker: 0.27283621757078164
+Average fraction of fooled ASes: 0.4517613685616361
+Average fraction of suspicious pfx events: 0.9911858974358976
+

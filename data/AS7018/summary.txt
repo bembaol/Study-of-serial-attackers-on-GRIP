@@ -1,0 +1,86 @@
+####################
+## Events Summary ##
+####################
+
+ASN: 7018
+AS name: ATT-INTERNET4
+AS rank: 27
+Organization name: AT&T Services, Inc.
+Country: United States
+------------------------------
+Total number of suspicious events (% of suspicious out of all events): 309 (11.465677179962894 %)
+  MOAS (% of suspicious out of all events): 141 (26.755218216318788 %)
+  SubMOAS (% of suspicious out of all events): 168 (7.7490774907749085 %)
+
+Total number of benign events (% of benign out of all events): 2386 (88.5343228200371 %)
+  MOAS (% of suspicious out of all events): 386 (73.24478178368122 %)
+  SubMOAS (% of suspicious out of all events): 2000 (92.25092250922509 %)
+  Event that only has "previously-announced-by-all-newcomers" green tag but prefix caused a suspicious event previously (= hidden suspicious events): 2
+------------------------------
+Average Duration: 349 days, 13:17:43.508091
+Median duration: 385 days, 23:09:59
+------------------------------
+Average number of events with each victim: 6.781376518218623
+  Average number of suspicious events with each victim: 1.5951417004048583
+  Average number of benign events with each victim: 5.186234817813765
+Victims targeted more than 5 times:
+  AS6385: 6 (1.9417475728155338 %)
+  AS6198: 6 (1.9417475728155338 %)
+------------------------------
+Fraction of /24 prefix: 0.6325301204819277
+Fraction of prefixes covered by a ROA: 0.03098106712564544
+Fraction of prefix already involved in an event but with reversed roles, i.e. attacker as victim and vice versa (= recovered prefixes): 0.006024096385542169
+/8 prefixes targeted more than 5 times:
+  156.x.x.x: 104 (8.950086058519794 %)
+  24.x.x.x: 49 (4.216867469879518 %)
+  192.x.x.x: 48 (4.130808950086059 %)
+  68.x.x.x: 42 (3.614457831325301 %)
+  21.x.x.x: 38 (3.2702237521514634 %)
+  198.x.x.x: 37 (3.1841652323580036 %)
+  23.x.x.x: 37 (3.1841652323580036 %)
+  22.x.x.x: 36 (3.098106712564544 %)
+  130.x.x.x: 34 (2.9259896729776247 %)
+  216.x.x.x: 33 (2.8399311531841653 %)
+  207.x.x.x: 32 (2.753872633390706 %)
+  66.x.x.x: 30 (2.5817555938037864 %)
+  199.x.x.x: 30 (2.5817555938037864 %)
+  209.x.x.x: 30 (2.5817555938037864 %)
+  206.x.x.x: 29 (2.495697074010327 %)
+  69.x.x.x: 28 (2.4096385542168677 %)
+  14.x.x.x: 26 (2.2375215146299485 %)
+  104.x.x.x: 25 (2.1514629948364887 %)
+  64.x.x.x: 24 (2.0654044750430294 %)
+  20.x.x.x: 23 (1.9793459552495698 %)
+  208.x.x.x: 20 (1.7211703958691909 %)
+  185.x.x.x: 19 (1.6351118760757317 %)
+  19.x.x.x: 18 (1.549053356282272 %)
+  45.x.x.x: 14 (1.2048192771084338 %)
+  72.x.x.x: 13 (1.1187607573149743 %)
+  193.x.x.x: 12 (1.0327022375215147 %)
+  38.x.x.x: 11 (0.9466437177280551 %)
+  144.x.x.x: 11 (0.9466437177280551 %)
+  147.x.x.x: 10 (0.8605851979345954 %)
+  204.x.x.x: 10 (0.8605851979345954 %)
+  109.x.x.x: 10 (0.8605851979345954 %)
+  103.x.x.x: 9 (0.774526678141136 %)
+  67.x.x.x: 8 (0.6884681583476765 %)
+  205.x.x.x: 8 (0.6884681583476765 %)
+  162.x.x.x: 7 (0.6024096385542169 %)
+  167.x.x.x: 7 (0.6024096385542169 %)
+  74.x.x.x: 7 (0.6024096385542169 %)
+  154.x.x.x: 7 (0.6024096385542169 %)
+  91.x.x.x: 7 (0.6024096385542169 %)
+  173.x.x.x: 7 (0.6024096385542169 %)
+  168.x.x.x: 7 (0.6024096385542169 %)
+  114.x.x.x: 6 (0.5163511187607573 %)
+  170.x.x.x: 6 (0.5163511187607573 %)
+  88.x.x.x: 6 (0.5163511187607573 %)
+  155.x.x.x: 6 (0.5163511187607573 %)
+  148.x.x.x: 6 (0.5163511187607573 %)
+------------------------------
+Average fraction of attackers paths: 0.35319334627363064
+Average fraction of attackers paths containing at least one victim: 5.9005044730756224e-05
+Average fraction of victims paths containing attacker: 0.055944712362746674
+Average fraction of fooled ASes: 0.4666640958975242
+Average fraction of suspicious pfx events: 0.9732289586632696
+

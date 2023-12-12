@@ -1,0 +1,44 @@
+####################
+## Events Summary ##
+####################
+
+ASN: 1516
+AS name: DNIC-ASBLK-01513-01518
+AS rank: 15113
+Organization name: Headquarters, USAISC
+Country: United States
+------------------------------
+Total number of suspicious events (% of suspicious out of all events): 190 (32.36797274275979 %)
+  MOAS (% of suspicious out of all events): 8 (23.52941176470588 %)
+  SubMOAS (% of suspicious out of all events): 182 (32.91139240506329 %)
+
+Total number of benign events (% of benign out of all events): 397 (67.6320272572402 %)
+  MOAS (% of suspicious out of all events): 26 (76.47058823529412 %)
+  SubMOAS (% of suspicious out of all events): 371 (67.08860759493672 %)
+  Event that only has "previously-announced-by-all-newcomers" green tag but prefix caused a suspicious event previously (= hidden suspicious events): 152
+------------------------------
+Average Duration: 76 days, 0:47:10.831579
+Median duration: 5:22:30
+------------------------------
+Average number of events with each victim: 115.2
+  Average number of suspicious events with each victim: 38.4
+  Average number of benign events with each victim: 76.8
+Victims targeted more than 5 times:
+  AS721: 156 (82.10526315789474 %)
+  AS1600: 21 (11.052631578947368 %)
+  AS749: 11 (5.7894736842105265 %)
+------------------------------
+Fraction of /24 prefix: 0.31685393258426964
+Fraction of prefixes covered by a ROA: 0.0
+Fraction of prefix already involved in an event but with reversed roles, i.e. attacker as victim and vice versa (= recovered prefixes): 0.0
+/8 prefixes targeted more than 5 times:
+  144.x.x.x: 344 (77.30337078651685 %)
+  143.x.x.x: 75 (16.853932584269664 %)
+  155.x.x.x: 20 (4.49438202247191 %)
+------------------------------
+Average fraction of attackers paths: 0.4601880457931623
+Average fraction of attackers paths containing at least one victim: 0.8210526315789474
+Average fraction of victims paths containing attacker: 0.0
+Average fraction of fooled ASes: 0.8565715245579264
+Average fraction of suspicious pfx events: 0.9973684210526316
+

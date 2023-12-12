@@ -1,0 +1,58 @@
+####################
+## Events Summary ##
+####################
+
+ASN: 174
+AS name: COGENT-174
+AS rank: 3
+Organization name: Cogent Communications
+Country: United States
+------------------------------
+Total number of suspicious events (% of suspicious out of all events): 344 (12.142605012354394 %)
+  MOAS (% of suspicious out of all events): 226 (31.608391608391607 %)
+  SubMOAS (% of suspicious out of all events): 117 (5.526688710439301 %)
+
+Total number of benign events (% of benign out of all events): 2489 (87.8573949876456 %)
+  MOAS (% of suspicious out of all events): 489 (68.3916083916084 %)
+  SubMOAS (% of suspicious out of all events): 2000 (94.4733112895607 %)
+  Event that only has "previously-announced-by-all-newcomers" green tag but prefix caused a suspicious event previously (= hidden suspicious events): 5
+------------------------------
+Average Duration: 408 days, 13:06:37.186589
+Median duration: 395 days, 9:04:59
+------------------------------
+Average number of events with each victim: 9.403636363636364
+  Average number of suspicious events with each victim: 2.9709090909090907
+  Average number of benign events with each victim: 6.432727272727273
+Victims targeted more than 5 times:
+  AS62240: 6 (1.744186046511628 %)
+------------------------------
+Fraction of /24 prefix: 0.8535732133933034
+Fraction of prefixes covered by a ROA: 0.005997001499250375
+Fraction of prefix already involved in an event but with reversed roles, i.e. attacker as victim and vice versa (= recovered prefixes): 0.22538730634682658
+/8 prefixes targeted more than 5 times:
+  206.x.x.x: 637 (31.83408295852074 %)
+  38.x.x.x: 624 (31.184407796101947 %)
+  154.x.x.x: 122 (6.096951524237881 %)
+  204.x.x.x: 104 (5.197401299350324 %)
+  149.x.x.x: 96 (4.7976011994003 %)
+  209.x.x.x: 93 (4.6476761619190405 %)
+  24.x.x.x: 58 (2.898550724637681 %)
+  205.x.x.x: 53 (2.6486756621689156 %)
+  23.x.x.x: 39 (1.9490254872563717 %)
+  22.x.x.x: 21 (1.0494752623688157 %)
+  21.x.x.x: 18 (0.8995502248875562 %)
+  128.x.x.x: 11 (0.5497251374312844 %)
+  102.x.x.x: 11 (0.5497251374312844 %)
+  109.x.x.x: 9 (0.4497751124437781 %)
+  193.x.x.x: 8 (0.39980009995002497 %)
+  185.x.x.x: 7 (0.3498250874562719 %)
+  198.x.x.x: 7 (0.3498250874562719 %)
+  17.x.x.x: 7 (0.3498250874562719 %)
+  66.x.x.x: 6 (0.29985007496251875 %)
+------------------------------
+Average fraction of attackers paths: 0.5193599380028588
+Average fraction of attackers paths containing at least one victim: 0.032001972056117024
+Average fraction of victims paths containing attacker: 0.08481656306066951
+Average fraction of fooled ASes: 0.6221998727827008
+Average fraction of suspicious pfx events: 0.9825066618217055
+

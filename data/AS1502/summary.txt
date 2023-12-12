@@ -1,0 +1,46 @@
+####################
+## Events Summary ##
+####################
+
+ASN: 1502
+AS name: DNIC-ASBLK-01500-01502
+AS rank: 16486
+Organization name: Headquarters, USAISC
+Country: United States
+------------------------------
+Total number of suspicious events (% of suspicious out of all events): 168 (24.561403508771928 %)
+  MOAS (% of suspicious out of all events): 3 (8.108108108108109 %)
+  SubMOAS (% of suspicious out of all events): 165 (25.50231839258114 %)
+
+Total number of benign events (% of benign out of all events): 516 (75.43859649122807 %)
+  MOAS (% of suspicious out of all events): 34 (91.8918918918919 %)
+  SubMOAS (% of suspicious out of all events): 482 (74.49768160741885 %)
+  Event that only has "previously-announced-by-all-newcomers" green tag but prefix caused a suspicious event previously (= hidden suspicious events): 371
+------------------------------
+Average Duration: 174 days, 2:11:48.529762
+Median duration: 2 days, 4:35:00
+------------------------------
+Average number of events with each victim: 107.0
+  Average number of suspicious events with each victim: 28.333333333333332
+  Average number of benign events with each victim: 78.66666666666667
+Victims targeted more than 5 times:
+  AS721: 150 (89.28571428571429 %)
+  AS749: 14 (8.333333333333332 %)
+------------------------------
+Fraction of /24 prefix: 0.2335958005249344
+Fraction of prefixes covered by a ROA: 0.0
+Fraction of prefix already involved in an event but with reversed roles, i.e. attacker as victim and vice versa (= recovered prefixes): 0.0
+/8 prefixes targeted more than 5 times:
+  143.x.x.x: 180 (47.24409448818898 %)
+  144.x.x.x: 92 (24.146981627296586 %)
+  155.x.x.x: 48 (12.598425196850393 %)
+  147.x.x.x: 22 (5.774278215223097 %)
+  160.x.x.x: 20 (5.2493438320209975 %)
+  158.x.x.x: 6 (1.574803149606299 %)
+------------------------------
+Average fraction of attackers paths: 0.46721149728362765
+Average fraction of attackers paths containing at least one victim: 0.8928571428571429
+Average fraction of victims paths containing attacker: 0.0
+Average fraction of fooled ASes: 0.8750468727188945
+Average fraction of suspicious pfx events: 0.9871031746031745
+

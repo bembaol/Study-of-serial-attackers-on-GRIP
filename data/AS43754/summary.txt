@@ -1,0 +1,84 @@
+####################
+## Events Summary ##
+####################
+
+ASN: 43754
+AS name: ASIATECH
+AS rank: 437
+Organization name: Asiatech Data Transmission company
+Country: Iran
+------------------------------
+Total number of suspicious events (% of suspicious out of all events): 535 (19.669117647058822 %)
+  MOAS (% of suspicious out of all events): 367 (38.91834570519618 %)
+  SubMOAS (% of suspicious out of all events): 168 (9.454136184580754 %)
+
+Total number of benign events (% of benign out of all events): 2185 (80.33088235294117 %)
+  MOAS (% of suspicious out of all events): 576 (61.08165429480382 %)
+  SubMOAS (% of suspicious out of all events): 1609 (90.54586381541925 %)
+  Event that only has "previously-announced-by-all-newcomers" green tag but prefix caused a suspicious event previously (= hidden suspicious events): 5
+------------------------------
+Average Duration: 10 days, 12:37:43.155140
+Median duration: 0:25:00
+------------------------------
+Average number of events with each victim: 7.340909090909091
+  Average number of suspicious events with each victim: 6.1022727272727275
+  Average number of benign events with each victim: 1.2386363636363635
+Victims targeted more than 5 times:
+  AS211056: 60 (11.214953271028037 %)
+  AS47330: 50 (9.345794392523365 %)
+  AS59431: 35 (6.5420560747663545 %)
+  AS42586: 28 (5.233644859813085 %)
+  AS57391: 21 (3.925233644859813 %)
+  AS35372: 21 (3.925233644859813 %)
+  AS39308: 18 (3.364485981308411 %)
+  AS61055: 17 (3.177570093457944 %)
+  AS48147: 15 (2.803738317757009 %)
+  AS42043: 14 (2.6168224299065423 %)
+  AS57986: 13 (2.4299065420560746 %)
+  AS50558: 12 (2.2429906542056073 %)
+  AS39074: 10 (1.8691588785046727 %)
+  AS1756: 10 (1.8691588785046727 %)
+  AS201540: 10 (1.8691588785046727 %)
+  AS57235: 10 (1.8691588785046727 %)
+  AS51785: 10 (1.8691588785046727 %)
+  AS56503: 8 (1.4953271028037385 %)
+  AS5484: 8 (1.4953271028037385 %)
+  AS49596: 8 (1.4953271028037385 %)
+  AS41856: 8 (1.4953271028037385 %)
+  AS58080: 7 (1.3084112149532712 %)
+  AS64458: 6 (1.1214953271028036 %)
+  AS44090: 6 (1.1214953271028036 %)
+------------------------------
+Fraction of /24 prefix: 0.7517053206002728
+Fraction of prefixes covered by a ROA: 0.004092769440654843
+Fraction of prefix already involved in an event but with reversed roles, i.e. attacker as victim and vice versa (= recovered prefixes): 0.0
+/8 prefixes targeted more than 5 times:
+  185.x.x.x: 185 (25.2387448840382 %)
+  45.x.x.x: 65 (8.867667121418826 %)
+  77.x.x.x: 61 (8.321964529331515 %)
+  92.x.x.x: 47 (6.412005457025921 %)
+  164.x.x.x: 41 (5.5934515688949515 %)
+  62.x.x.x: 41 (5.5934515688949515 %)
+  37.x.x.x: 36 (4.911323328785812 %)
+  188.x.x.x: 29 (3.956343792633015 %)
+  46.x.x.x: 23 (3.1377899045020468 %)
+  95.x.x.x: 20 (2.728512960436562 %)
+  5.x.x.x: 18 (2.455661664392906 %)
+  91.x.x.x: 17 (2.3192360163710775 %)
+  89.x.x.x: 14 (1.9099590723055935 %)
+  85.x.x.x: 13 (1.7735334242837655 %)
+  178.x.x.x: 13 (1.7735334242837655 %)
+  193.x.x.x: 13 (1.7735334242837655 %)
+  81.x.x.x: 12 (1.6371077762619373 %)
+  88.x.x.x: 10 (1.364256480218281 %)
+  109.x.x.x: 10 (1.364256480218281 %)
+  22.x.x.x: 9 (1.227830832196453 %)
+  194.x.x.x: 8 (1.0914051841746248 %)
+  128.x.x.x: 6 (0.8185538881309686 %)
+------------------------------
+Average fraction of attackers paths: 0.4079675351043468
+Average fraction of attackers paths containing at least one victim: 0.0
+Average fraction of victims paths containing attacker: 0.9105319962119454
+Average fraction of fooled ASes: 0.4561078013871099
+Average fraction of suspicious pfx events: 1.0
+

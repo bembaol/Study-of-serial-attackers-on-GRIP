@@ -1,0 +1,111 @@
+####################
+## Events Summary ##
+####################
+
+ASN: 41689
+AS name: FCP-NETWORK
+AS rank: 482
+Organization name: Asiatech Data Transmission company
+Country: Iran
+------------------------------
+Total number of suspicious events (% of suspicious out of all events): 2000 (40.96681687832856 %)
+  MOAS (% of suspicious out of all events): 457 (34.12994772218073 %)
+  SubMOAS (% of suspicious out of all events): 1543 (43.55066327970646 %)
+
+Total number of benign events (% of benign out of all events): 2882 (59.03318312167145 %)
+  MOAS (% of suspicious out of all events): 882 (65.87005227781927 %)
+  SubMOAS (% of suspicious out of all events): 2000 (56.449336720293545 %)
+  Event that only has "previously-announced-by-all-newcomers" green tag but prefix caused a suspicious event previously (= hidden suspicious events): 4
+------------------------------
+Average Duration: 10 days, 16:49:21.563500
+Median duration: 0:30:00
+------------------------------
+Average number of events with each victim: 38.72950819672131
+  Average number of suspicious events with each victim: 16.631147540983605
+  Average number of benign events with each victim: 22.098360655737704
+Victims targeted more than 5 times:
+  AS44244: 681 (34.050000000000004 %)
+  AS50810: 318 (15.9 %)
+  AS206065: 124 (6.2 %)
+  AS49100: 109 (5.45 %)
+  AS60631: 53 (2.65 %)
+  AS39308: 50 (2.5 %)
+  AS202468: 46 (2.3 %)
+  AS42586: 42 (2.1 %)
+  AS44285: 38 (1.9 %)
+  AS48715: 34 (1.7000000000000002 %)
+  AS51074: 32 (1.6 %)
+  AS34636: 31 (1.55 %)
+  AS47330: 26 (1.3 %)
+  AS60077: 25 (1.25 %)
+  AS39074: 23 (1.15 %)
+  AS56503: 15 (0.75 %)
+  AS201540: 14 (0.7000000000000001 %)
+  AS59441: 13 (0.65 %)
+  AS208161: 13 (0.65 %)
+  AS47262: 13 (0.65 %)
+  AS50558: 12 (0.6 %)
+  AS44375: 11 (0.5499999999999999 %)
+  AS48359: 11 (0.5499999999999999 %)
+  AS59431: 9 (0.44999999999999996 %)
+  AS57497: 8 (0.4 %)
+  AS61173: 8 (0.4 %)
+  AS1756: 8 (0.4 %)
+  AS208675: 7 (0.35000000000000003 %)
+  AS48551: 6 (0.3 %)
+  AS34412: 6 (0.3 %)
+  AS34513: 6 (0.3 %)
+  AS48592: 6 (0.3 %)
+  AS210392: 6 (0.3 %)
+  AS205229: 6 (0.3 %)
+  AS44090: 6 (0.3 %)
+  AS201150: 6 (0.3 %)
+  AS34918: 6 (0.3 %)
+------------------------------
+Fraction of /24 prefix: 0.5673596673596674
+Fraction of prefixes covered by a ROA: 0.0004158004158004158
+Fraction of prefix already involved in an event but with reversed roles, i.e. attacker as victim and vice versa (= recovered prefixes): 0.0
+/8 prefixes targeted more than 5 times:
+  5.x.x.x: 2237 (46.50727650727651 %)
+  185.x.x.x: 456 (9.48024948024948 %)
+  178.x.x.x: 421 (8.752598752598754 %)
+  77.x.x.x: 293 (6.091476091476092 %)
+  37.x.x.x: 269 (5.592515592515593 %)
+  188.x.x.x: 186 (3.866943866943867 %)
+  193.x.x.x: 101 (2.0997920997921 %)
+  109.x.x.x: 87 (1.808731808731809 %)
+  94.x.x.x: 80 (1.6632016632016633 %)
+  89.x.x.x: 79 (1.6424116424116426 %)
+  45.x.x.x: 65 (1.3513513513513513 %)
+  85.x.x.x: 46 (0.9563409563409564 %)
+  93.x.x.x: 44 (0.9147609147609148 %)
+  95.x.x.x: 38 (0.7900207900207901 %)
+  92.x.x.x: 36 (0.7484407484407485 %)
+  81.x.x.x: 34 (0.7068607068607069 %)
+  46.x.x.x: 34 (0.7068607068607069 %)
+  31.x.x.x: 28 (0.5821205821205822 %)
+  213.x.x.x: 26 (0.5405405405405406 %)
+  87.x.x.x: 24 (0.498960498960499 %)
+  91.x.x.x: 22 (0.4573804573804574 %)
+  194.x.x.x: 19 (0.39501039501039503 %)
+  62.x.x.x: 19 (0.39501039501039503 %)
+  88.x.x.x: 16 (0.33264033264033266 %)
+  130.x.x.x: 15 (0.31185031185031187 %)
+  217.x.x.x: 15 (0.31185031185031187 %)
+  159.x.x.x: 14 (0.2910602910602911 %)
+  195.x.x.x: 13 (0.2702702702702703 %)
+  164.x.x.x: 12 (0.2494802494802495 %)
+  128.x.x.x: 11 (0.2286902286902287 %)
+  80.x.x.x: 10 (0.2079002079002079 %)
+  212.x.x.x: 8 (0.16632016632016633 %)
+  103.x.x.x: 7 (0.14553014553014554 %)
+  176.x.x.x: 7 (0.14553014553014554 %)
+  86.x.x.x: 7 (0.14553014553014554 %)
+  171.x.x.x: 6 (0.12474012474012475 %)
+------------------------------
+Average fraction of attackers paths: 0.28776332068300575
+Average fraction of attackers paths containing at least one victim: 0.0
+Average fraction of victims paths containing attacker: 0.9850067383435875
+Average fraction of fooled ASes: 0.399037006145618
+Average fraction of suspicious pfx events: 0.9739622419247421
+

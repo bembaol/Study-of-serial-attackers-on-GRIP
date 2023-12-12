@@ -1,0 +1,50 @@
+####################
+## Events Summary ##
+####################
+
+ASN: 20473
+AS name: AS-CHOOPA
+AS rank: 102
+Organization name: The Constant Company, LLC
+Country: United States
+------------------------------
+Total number of suspicious events (% of suspicious out of all events): 210 (7.118644067796611 %)
+  MOAS (% of suspicious out of all events): 65 (8.074534161490684 %)
+  SubMOAS (% of suspicious out of all events): 145 (6.75990675990676 %)
+
+Total number of benign events (% of benign out of all events): 2740 (92.88135593220339 %)
+  MOAS (% of suspicious out of all events): 740 (91.92546583850931 %)
+  SubMOAS (% of suspicious out of all events): 2000 (93.24009324009323 %)
+  Event that only has "previously-announced-by-all-newcomers" green tag but prefix caused a suspicious event previously (= hidden suspicious events): 49
+------------------------------
+Average Duration: 495 days, 14:17:13.452381
+Median duration: 517 days, 15:49:59
+------------------------------
+Average number of events with each victim: 15.352380952380953
+  Average number of suspicious events with each victim: 2.2666666666666666
+  Average number of benign events with each victim: 13.085714285714285
+Victims targeted more than 5 times:
+  AS7377: 61 (29.04761904761905 %)
+------------------------------
+Fraction of /24 prefix: 0.397196261682243
+Fraction of prefixes covered by a ROA: 0.06074766355140187
+Fraction of prefix already involved in an event but with reversed roles, i.e. attacker as victim and vice versa (= recovered prefixes): 0.007009345794392523
+/8 prefixes targeted more than 5 times:
+  44.x.x.x: 127 (29.672897196261683 %)
+  103.x.x.x: 75 (17.523364485981308 %)
+  24.x.x.x: 54 (12.616822429906541 %)
+  20.x.x.x: 25 (5.841121495327103 %)
+  21.x.x.x: 21 (4.906542056074766 %)
+  23.x.x.x: 17 (3.9719626168224296 %)
+  45.x.x.x: 16 (3.7383177570093453 %)
+  22.x.x.x: 15 (3.5046728971962615 %)
+  19.x.x.x: 12 (2.803738317757009 %)
+  185.x.x.x: 7 (1.6355140186915886 %)
+  104.x.x.x: 6 (1.4018691588785046 %)
+------------------------------
+Average fraction of attackers paths: 0.4410604521940349
+Average fraction of attackers paths containing at least one victim: 0.004761904761904762
+Average fraction of victims paths containing attacker: 0.00483677151466123
+Average fraction of fooled ASes: 0.552176294730048
+Average fraction of suspicious pfx events: 0.983015873015873
+

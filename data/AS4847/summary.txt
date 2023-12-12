@@ -1,0 +1,70 @@
+####################
+## Events Summary ##
+####################
+
+ASN: 4847
+AS name: CNIX-AP
+AS rank: 543
+Organization name: China Networks Inter-Exchange
+Country: China
+------------------------------
+Total number of suspicious events (% of suspicious out of all events): 243 (14.421364985163205 %)
+  MOAS (% of suspicious out of all events): 63 (12.804878048780488 %)
+  SubMOAS (% of suspicious out of all events): 179 (15.016778523489933 %)
+
+Total number of benign events (% of benign out of all events): 1442 (85.57863501483679 %)
+  MOAS (% of suspicious out of all events): 429 (87.1951219512195 %)
+  SubMOAS (% of suspicious out of all events): 1013 (84.98322147651007 %)
+  Event that only has "previously-announced-by-all-newcomers" green tag but prefix caused a suspicious event previously (= hidden suspicious events): 53
+------------------------------
+Average Duration: 446 days, 15:31:27.219008
+Median duration: 455 days, 20:44:59
+------------------------------
+Average number of events with each victim: 26.84375
+  Average number of suspicious events with each victim: 5.78125
+  Average number of benign events with each victim: 21.0625
+Victims targeted more than 5 times:
+  AS4808: 124 (51.028806584362144 %)
+  AS23724: 17 (6.995884773662551 %)
+  AS9808: 8 (3.292181069958848 %)
+  AS56048: 7 (2.880658436213992 %)
+  AS45058: 7 (2.880658436213992 %)
+  AS749: 7 (2.880658436213992 %)
+------------------------------
+Fraction of /24 prefix: 0.2864583333333333
+Fraction of prefixes covered by a ROA: 0.0
+Fraction of prefix already involved in an event but with reversed roles, i.e. attacker as victim and vice versa (= recovered prefixes): 0.010416666666666666
+/8 prefixes targeted more than 5 times:
+  218.x.x.x: 78 (13.541666666666666 %)
+  124.x.x.x: 77 (13.368055555555555 %)
+  21.x.x.x: 49 (8.506944444444445 %)
+  103.x.x.x: 43 (7.465277777777778 %)
+  211.x.x.x: 38 (6.597222222222222 %)
+  22.x.x.x: 32 (5.555555555555555 %)
+  20.x.x.x: 28 (4.861111111111112 %)
+  219.x.x.x: 25 (4.340277777777778 %)
+  23.x.x.x: 21 (3.6458333333333335 %)
+  24.x.x.x: 17 (2.951388888888889 %)
+  17.x.x.x: 15 (2.604166666666667 %)
+  18.x.x.x: 15 (2.604166666666667 %)
+  122.x.x.x: 13 (2.256944444444444 %)
+  114.x.x.x: 12 (2.083333333333333 %)
+  118.x.x.x: 8 (1.3888888888888888 %)
+  120.x.x.x: 8 (1.3888888888888888 %)
+  117.x.x.x: 8 (1.3888888888888888 %)
+  175.x.x.x: 8 (1.3888888888888888 %)
+  119.x.x.x: 7 (1.215277777777778 %)
+  220.x.x.x: 7 (1.215277777777778 %)
+  113.x.x.x: 7 (1.215277777777778 %)
+  223.x.x.x: 6 (1.0416666666666665 %)
+  59.x.x.x: 6 (1.0416666666666665 %)
+  60.x.x.x: 6 (1.0416666666666665 %)
+  106.x.x.x: 6 (1.0416666666666665 %)
+  19.x.x.x: 6 (1.0416666666666665 %)
+------------------------------
+Average fraction of attackers paths: 0.4199160735699611
+Average fraction of attackers paths containing at least one victim: 0.00010500104676471078
+Average fraction of victims paths containing attacker: 0.0
+Average fraction of fooled ASes: 0.6119124537169435
+Average fraction of suspicious pfx events: 0.9637729440198576
+

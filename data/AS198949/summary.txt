@@ -1,0 +1,83 @@
+####################
+## Events Summary ##
+####################
+
+ASN: 198949
+AS name: VS-AS
+AS rank: 357
+Organization name: DC PROTECTION LTD
+Country: Israel
+------------------------------
+Total number of suspicious events (% of suspicious out of all events): 404 (22.283507997793713 %)
+  MOAS (% of suspicious out of all events): 236 (28.957055214723926 %)
+  SubMOAS (% of suspicious out of all events): 168 (16.83366733466934 %)
+
+Total number of benign events (% of benign out of all events): 1409 (77.71649200220628 %)
+  MOAS (% of suspicious out of all events): 579 (71.04294478527608 %)
+  SubMOAS (% of suspicious out of all events): 830 (83.16633266533067 %)
+  Event that only has "previously-announced-by-all-newcomers" green tag but prefix caused a suspicious event previously (= hidden suspicious events): 113
+------------------------------
+Average Duration: 485 days, 15:15:46.945545
+Median duration: 520 days, 21:02:29
+------------------------------
+Average number of events with each victim: 7.822085889570552
+  Average number of suspicious events with each victim: 2.5644171779141103
+  Average number of benign events with each victim: 5.257668711656442
+Victims targeted more than 5 times:
+  AS13778: 46 (11.386138613861387 %)
+  AS135357: 19 (4.702970297029703 %)
+  AS15590: 18 (4.455445544554455 %)
+  AS29949: 9 (2.2277227722772275 %)
+  AS9638: 7 (1.7326732673267329 %)
+  AS10185: 7 (1.7326732673267329 %)
+  AS14074: 6 (1.4851485148514851 %)
+  AS18608: 6 (1.4851485148514851 %)
+  AS137: 6 (1.4851485148514851 %)
+  AS14742: 6 (1.4851485148514851 %)
+------------------------------
+Fraction of /24 prefix: 0.6230440967283073
+Fraction of prefixes covered by a ROA: 0.01991465149359886
+Fraction of prefix already involved in an event but with reversed roles, i.e. attacker as victim and vice versa (= recovered prefixes): 0.001422475106685633
+/8 prefixes targeted more than 5 times:
+  148.x.x.x: 123 (17.496443812233288 %)
+  195.x.x.x: 62 (8.819345661450924 %)
+  199.x.x.x: 36 (5.120910384068279 %)
+  167.x.x.x: 30 (4.267425320056899 %)
+  185.x.x.x: 25 (3.556187766714083 %)
+  156.x.x.x: 25 (3.556187766714083 %)
+  192.x.x.x: 19 (2.7027027027027026 %)
+  24.x.x.x: 19 (2.7027027027027026 %)
+  194.x.x.x: 18 (2.5604551920341394 %)
+  45.x.x.x: 18 (2.5604551920341394 %)
+  103.x.x.x: 16 (2.275960170697013 %)
+  130.x.x.x: 14 (1.991465149359886 %)
+  204.x.x.x: 13 (1.849217638691323 %)
+  154.x.x.x: 13 (1.849217638691323 %)
+  162.x.x.x: 12 (1.7069701280227598 %)
+  198.x.x.x: 12 (1.7069701280227598 %)
+  165.x.x.x: 10 (1.422475106685633 %)
+  157.x.x.x: 10 (1.422475106685633 %)
+  203.x.x.x: 10 (1.422475106685633 %)
+  22.x.x.x: 10 (1.422475106685633 %)
+  160.x.x.x: 9 (1.2802275960170697 %)
+  61.x.x.x: 9 (1.2802275960170697 %)
+  74.x.x.x: 9 (1.2802275960170697 %)
+  188.x.x.x: 8 (1.1379800853485065 %)
+  193.x.x.x: 7 (0.995732574679943 %)
+  178.x.x.x: 7 (0.995732574679943 %)
+  209.x.x.x: 6 (0.8534850640113799 %)
+  213.x.x.x: 6 (0.8534850640113799 %)
+  91.x.x.x: 6 (0.8534850640113799 %)
+  59.x.x.x: 6 (0.8534850640113799 %)
+  212.x.x.x: 6 (0.8534850640113799 %)
+  137.x.x.x: 6 (0.8534850640113799 %)
+  121.x.x.x: 6 (0.8534850640113799 %)
+  131.x.x.x: 6 (0.8534850640113799 %)
+  216.x.x.x: 6 (0.8534850640113799 %)
+------------------------------
+Average fraction of attackers paths: 0.5447348038266077
+Average fraction of attackers paths containing at least one victim: 0.00015783198039562808
+Average fraction of victims paths containing attacker: 0.01098816732929878
+Average fraction of fooled ASes: 0.7141216897593312
+Average fraction of suspicious pfx events: 0.9849422442244224
+
