@@ -42,7 +42,7 @@ if __name__ == '__main__':
 
     es_retagged = Elasticsearch("https://procida.cc.gatech.edu:9200"
         , verify_certs=False,
-        timeout=100, max_retries=1, retry_on_timeout=True, api_key='QWNkeUVJb0JDbFlIYzItdDdQWDU6Smh6T093OGRTam1RRm1XSU40bnZkUQ==')
+        timeout=100, max_retries=1, retry_on_timeout=True, api_key='xxxxxx')
     
     event_count = {}
     event_count_per_AS = {}
