@@ -52,11 +52,11 @@ if __name__ == '__main__':
     # ElasticSearch Clients
     es = Elasticsearch("https://procida.cc.gatech.edu:9200"
         , verify_certs=False,
-        timeout=100, max_retries=1, retry_on_timeout=True, api_key='ak1kZmVJY0JDbFlIYzItdEhmUUg6VEQ4bHB3TGJTZUtxVm54Q0R1bWxjUQ==')
+        timeout=100, max_retries=1, retry_on_timeout=True, api_key='xxxxxx')
 
     es_retagged = Elasticsearch("https://procida.cc.gatech.edu:9200"
         , verify_certs=False,
-        timeout=100, max_retries=1, retry_on_timeout=True, api_key='QWNkeUVJb0JDbFlIYzItdDdQWDU6Smh6T093OGRTam1RRm1XSU40bnZkUQ==')
+        timeout=100, max_retries=1, retry_on_timeout=True, api_key='xxxxxx')
 
     print(f"[{datetime.datetime.now()}] Start potential serial BGP hijackers collection.")
 
